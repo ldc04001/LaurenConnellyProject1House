@@ -17,20 +17,29 @@ print("  d. 4")
 
 #ask user to enter letter a-d
 firstanswer=input("Please enter 'a' - 'd':  ")
+print( )
 
-#ask user how many bathrooms they want
+# ask user how many bathrooms they want
 print("2. How many bathrooms do you want in your home?")
 print("  a. 1")
 print("  b. 2")
 print("  c. 3")
 
-#ask user to enter letter a-c
+# ask user to enter letter a-c
 secondanswer=input("Please enter 'a' - 'c': ")
+print( )
 
+print("~Location~")
+# ask user if they want to live in a city
+print("3. Do you want to live in a city?")
+thirdanswer=input("Please enter 'yes or no': ")
+print( )
 
-# Location
-# Do you want to live in the city - yes or no
-# What state do you want to live in - fill in
+# ask user which state they want to live in
+print("4. What state do you want to live in?")
+fourthanswer=input("Please enter the name of the state: ")
+print( )
+
 
 # features
 # How many floors do you want? 
