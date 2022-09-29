@@ -18,9 +18,15 @@ print("  d. 4")
 #ask user to enter letter a-d
 firstanswer=input("Please enter 'a' - 'd':  ")
 
-# Rooms
-# select how many bedrooms? multiple choice
-# How many bathrooms? mult choice
+#ask user how many bathrooms they want
+print("2. How many bathrooms do you want in your home?")
+print("  a. 1")
+print("  b. 2")
+print("  c. 3")
+
+#ask user to enter letter a-c
+secondanswer=input("Please enter 'a' - 'c': ")
+
 
 # Location
 # Do you want to live in the city - yes or no
